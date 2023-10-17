@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-int main(int argc, char *argv[]) 
+int main() //int main(int argc, char *argv[]) 
 {
 	int colectivo[3][12]={{0},{0}};
 	int coche=0,recaudado=0,linea=0;

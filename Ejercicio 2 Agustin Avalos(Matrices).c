@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-int main(int argc, char *argv[]) 
+int main() //int main(int argc, char *argv[]) 
 {
 	int matriz[2][3];
 	int matriz1[2][3];
